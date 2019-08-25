@@ -8,6 +8,7 @@ import Len.dao.EmpDAO;
 public class Service {
 	
 	public void addEmp(String lastName , String firstName ,String birthDate) {
+		//轉換DATE中的/換成-
 		birthDate =birthDate.replace("/", "-");
 		Date date = Date.valueOf(birthDate);
 		
