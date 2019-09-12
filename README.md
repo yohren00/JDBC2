@@ -26,4 +26,4 @@
 
   
  ####   點擊"收尋"會跳到收尋頁面，並顯示收尋的內容
-![學生資料](https://github.com/yohren00/JDBC2/blob/master/delete.png) 
+![學生資料](https://github.com/yohren00/JDBC2/blob/master/search.png) 
