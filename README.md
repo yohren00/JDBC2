@@ -7,7 +7,5 @@
 <br/> 
 
 ###   顯示所有學生資料
-<br/> 
 1. 可刪除、修改、新增、收尋
-<br/> 
 ![學生資料](https://github.com/yohren00/JDBC2/blob/master/student1.png)
