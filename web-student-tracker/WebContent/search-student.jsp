@@ -20,7 +20,7 @@
 
 	<div id="container">
 		<div id="content">
-			<h2>收尋學生資料</h2>
+			<h2>收尋</h2>
 		
 		<form action="StudentControllerServlet" method="post">
 			<input type="hidden" name="command" value="SEARCH" />
