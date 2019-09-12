@@ -20,7 +20,7 @@
 
 	<div id="container">
 		<div id="content">
-			<h2>¦¬´M</h2>
+			<h2>¦¬´M </h2>
 		
 		<form action="StudentControllerServlet" method="post">
 			<input type="hidden" name="command" value="SEARCH" />
